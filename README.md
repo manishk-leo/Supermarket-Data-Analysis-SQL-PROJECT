@@ -25,4 +25,4 @@ Customer_ID (VARCHAR) - ID of the customer, primary key of the table
 Customer_Name_ (VARCHAR) - Name of the Customer
 3. TABLE- returns
 Order_ID (VARCHAR) - Primary key of the order returned
-Returned (VARCHAR) - If the order was returned or no
+Returned (VARCHAR) - If the order was returned or not.
